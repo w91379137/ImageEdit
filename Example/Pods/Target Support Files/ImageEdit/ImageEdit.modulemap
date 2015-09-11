@@ -1,0 +1,6 @@
+framework module ImageEdit {
+  umbrella header "ImageEdit-umbrella.h"
+
+  export *
+  module * { export * }
+}

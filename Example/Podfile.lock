@@ -1,0 +1,14 @@
+PODS:
+  - ImageEdit (0.1.0)
+
+DEPENDENCIES:
+  - ImageEdit (from `../`)
+
+EXTERNAL SOURCES:
+  ImageEdit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ImageEdit: 56d34e23ac2ea2e21902975af8aebae11a68513f
+
+COCOAPODS: 0.38.2

@@ -1,0 +1,25 @@
+{
+  "name": "ImageEdit",
+  "version": "0.1.0",
+  "summary": "A short description of ImageEdit.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/ImageEdit",
+  "license": "MIT",
+  "authors": {
+    "w91379137": "yclin@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/ImageEdit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "ImageEdit": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
